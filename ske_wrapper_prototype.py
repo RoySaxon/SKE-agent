@@ -4,7 +4,7 @@ import time
 import random
 
 # Initialize your OpenAI API key
-openai.api_key = 'your-api-key-here'
+openai.api_key = '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'
 
 # 1. Prompt Recognition (Simple vs. Complex)
 def is_complex(prompt):
